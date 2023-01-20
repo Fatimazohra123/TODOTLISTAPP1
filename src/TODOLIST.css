@@ -1,0 +1,31 @@
+.app{
+ text-align: center;
+}
+.input{
+ width:50%;
+ height:50px;
+ text-align: center;
+ font-weight:10;
+}
+.btn{
+ background-color: rgb(195, 226, 24);
+ height: 50px;
+}
+.text{
+ width:50%;
+ height:50px;
+ text-align: center;
+ font-weight:10;
+}
+.button1{
+ height: 50px;
+ background-color: rgb(51, 221, 234);
+}
+.button2{
+ height: 50px;
+ background-color: rgb(233, 159, 245);
+}
+.button3{
+ height: 50px;
+ background-color: rgb(132, 114, 123);
+}
